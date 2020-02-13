@@ -15,7 +15,7 @@ spec:
     ref: master
   values:
     image:
-      repository: ianisharpratama/podinfo
+      repository: stefanprodan/podinfo
       tag: dev-hdtwcel9
     replicaCount: 1
     hpa:
